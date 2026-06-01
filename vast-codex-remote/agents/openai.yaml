@@ -1,0 +1,5 @@
+interface:
+  display_name: "Vast Codex Remote"
+  short_description: "Create Vast.ai instances as Codex SSH remotes"
+  default_prompt: "Use $vast-codex-remote to create a Vast.ai GPU instance, register it as a Codex SSH remote, and clone the requested project."
+

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vast GPU Selection"
+  short_description: "Pick Vast.ai GPUs with bandwidth-aware pricing"
+  default_prompt: "Use $vast-gpu-selection to find the best RTX_4090 Vast.ai offer with bandwidth-aware effective cost."
